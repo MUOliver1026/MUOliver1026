@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oliver WU. @MUOliver1026
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in Web Frontend Design
 - 🌱 I’m currently learning AI in UNSW
 - 📫 How to reach me ...(Not available yet)
 
