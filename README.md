@@ -1,7 +1,5 @@
 # Hi there, I'm MUOliver1026 👋
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=MUOliver1026)
-
 ## About Me
 I'm a passionate developer with a keen interest in web development and data science. I love to explore new technologies and work on exciting projects.
 
@@ -14,7 +12,7 @@ I'm a passionate developer with a keen interest in web development and data scie
 - [Another Project](https://github.com/MUOliver1026/tutor_management_platform): Tutor Trackr: A professional tutorial management platform.
 
 ## Skills
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)
+![ts](https://badgen.net/badge/-/TypeScript/blue?icon=typescript&label)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
