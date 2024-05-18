@@ -14,8 +14,8 @@ I'm an IT Graduate with a master’s degree in Information Technology, specializ
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUOliver1026&layout=compact&theme=radical)
 
 ## Projects
-- [Project Name](https://github.com/MUOliver1026/EstateEase): This project is a modern real estate marketplace built from scratch using the MERN stack (MongoDB, Express.js, React, and Node.js).
-- [Another Project](https://github.com/MUOliver1026/tutor_management_platform): Tutor Trackr: A professional tutorial management platform.
+- [EstateEase](https://github.com/MUOliver1026/EstateEase): This project is a modern real estate marketplace built from scratch using the MERN stack (MongoDB, Express.js, React, and Node.js).
+- [Tutor Trackr](https://github.com/MUOliver1026/tutor_management_platform): Tutor Trackr: A professional tutorial management platform.
 
 ## Skills
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
