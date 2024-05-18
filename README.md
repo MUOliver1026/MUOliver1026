@@ -12,11 +12,15 @@ I'm a passionate developer with a keen interest in web development and data scie
 - [Another Project](https://github.com/MUOliver1026/tutor_management_platform): Tutor Trackr: A professional tutorial management platform.
 
 ## Skills
-![ts](https://badgen.net/badge/-/TypeScript/blue?icon=typescript&label)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/yuanming-wu-094b40232/)
