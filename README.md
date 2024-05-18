@@ -1,7 +1,13 @@
-# Hi there, I'm MUOliver1026 👋
+# Hi there, I'm Yuanming (Oliver) Wu 👋
 
 ## About Me
-I'm a passionate developer with a keen interest in web development and data science. I love to explore new technologies and work on exciting projects.
+I'm an IT Graduate with a master’s degree in Information Technology, specializing in AI, from UNSW. I have extensive experience in developing responsive, user-centric web applications using modern technologies such as React, Next.js, and the MERN stack, with a strong focus on customer service. My skills include digital architecture & engineering, covering areas like authentication, state management, and cloud integration. I have a proven ability to drive technological innovation, manage change and transformation, and collaborate effectively in teams. Additionally, I am certified in AWS Cloud Practitioner.
+
+- 🌱 Currently learning: **MERN Stack, JWT, CI/CD**
+- 🔭 Working on: **EstateEase**
+- 🌍 Languages: **TypeScript/JavaScript**
+- 📫 How to reach me: **yuanming.oliver.wu@gmail.com**
+- ⚡ Fun fact: **Football Fan (Man United)**
 
 ## GitHub Stats
 ![MUOliver1026's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUOliver1026&show_icons=true&theme=radical)
